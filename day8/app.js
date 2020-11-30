@@ -1,5 +1,5 @@
 /*
-Tarih : 31.11.2020 / #100daysofjs / day 8
+Tarih : 01.12.2020 / #100daysofjs / day 8
 https://github.com/WinneRose/100daysofjs
 */
 
