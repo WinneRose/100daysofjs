@@ -5,7 +5,6 @@ https://github.com/WinneRose/100daysofjs
 
 // Window Object , Scope
 
-
 // Alert
 alert("Merhaba");
 
