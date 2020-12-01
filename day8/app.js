@@ -3,6 +3,8 @@ Tarih : 01.12.2020 / #100daysofjs / day 8
 https://github.com/WinneRose/100daysofjs
 */
 
+// Window Object , Scope
+
 // Alert
 alert("Merhaba");
 
